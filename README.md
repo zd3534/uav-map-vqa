@@ -213,16 +213,6 @@ python utils/osm_extractor.py \
 
 These utilities are provided for reference but not required for benchmark evaluation.
 
-## Citation
-
-```bibtex
-@article{uav-map-vqa-2026,
-  title={UAV-Map-VQA: A Benchmark for Vision-Language Models on Aerial Imagery},
-  author={Anonymous},
-  year={2026}
-}
-```
-
 ## License
 
 MIT License - see LICENSE file for details.
